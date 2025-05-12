@@ -60,7 +60,7 @@
         },
         {
             "type": "Link",
-            "label": "Eventos",
+            "label": "Equipe",
             "altText": "",
             "url": "/Equipe",
             "showIcon": false,
