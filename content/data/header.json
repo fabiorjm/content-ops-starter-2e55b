@@ -85,7 +85,7 @@
         "type": "ImageBlock",
         "url": "/images/logomarca-creche-nairim.png",
         "altText": "Image alt text placeholder",
-        "elementId": "",
+        "elementId": "logo",
         "styles": {
             "self": {
                 "borderRadius": "medium",
