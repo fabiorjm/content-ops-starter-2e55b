@@ -92,7 +92,7 @@
             "type": "Button"
         },
         {
-            "label": "Log in",
+            "label": "Contato",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
