@@ -71,7 +71,7 @@
         },
         {
             "type": "Link",
-            "label": "See Tutorials",
+            "label": "Doações",
             "altText": "",
             "url": "/doacoes",
             "showIcon": false,
